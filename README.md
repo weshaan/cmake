@@ -9,3 +9,5 @@ CMake is a tool designed to build, test, and package software. It uses a simple 
 1. **CMakeLists.txt**: This is the main configuration file for CMake. It contains instructions for building your project.
 
 2. **Source Directory and Build Directory**: CMake requires a source directory where your project's source code resides and a separate build directory where CMake generates build files.
+
+official documentation: [cmake](https://cmake.org/cmake/help/latest/index.html)
