@@ -10,4 +10,5 @@ CMake is a tool designed to build, test, and package software. It uses a simple 
 
 2. **Source Directory and Build Directory**: CMake requires a source directory where your project's source code resides and a separate build directory where CMake generates build files.
 
-official documentation: [cmake](https://cmake.org/cmake/help/latest/index.html)
+Official documentation: [Helpbook](https://cmake.org/cmake/help/latest/index.html)</br>
+E-book: [Mastering cmake](https://cmake.org/cmake/help/book/mastering-cmake/)
